@@ -1,2 +1,2 @@
 # Algorithon_Technologies
-The Way Tech
+The Way to Tech
